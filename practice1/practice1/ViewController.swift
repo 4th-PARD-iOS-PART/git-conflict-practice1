@@ -2,6 +2,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    // mainLabel 부분만 수정하세요!
     private let mainLabel: UILabel = {
     let label = UILabel()
     label.text = "A의 라벨입니다" // 이 부분을 수정
